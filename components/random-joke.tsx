@@ -41,7 +41,7 @@ export default function RandomJoke() {
   }
   //  Jxs return statement
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-br from-red-400 to-indigo-400 p-8">
+    <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-br from-red-400 to-indigo-400 p-6">
       <div className="bg-gray-300 rounded-2xl shadow-lg p-6 w-full max-w-md">
         {/* Heading , styling ,font ,size */}
         <h1 className="text-2xl font-bold mb-4 text-center justify-center  ">
